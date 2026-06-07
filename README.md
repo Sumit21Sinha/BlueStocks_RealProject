@@ -412,9 +412,9 @@ using Power BI Desktop.
 
 Data Analytics | Business Analytics | Financial Analytics
 
-GitHub: https://github.com/your-github-profile
+GitHub: [https://github.com/your-github-profile](https://github.com/Sumit21Sinha)
 
-LinkedIn: https://linkedin.com/in/your-linkedin-profile
+LinkedIn: [https://linkedin.com/in/your-linkedin-profile](https://www.linkedin.com/in/sumit-sinha-454a232a6/)
 
 ---
 
